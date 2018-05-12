@@ -1,0 +1,34 @@
+_repo: The-World-I-Live-In_27683
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Keller, Helen
+    alias: Keller, Helen Adams
+    birthdate: 1880
+    deathdate: 1968
+    gutenberg_agent_id: '895'
+    url: http://www.gutenberg.org/2009/agents/895
+    wikipedia: http://en.wikipedia.org/wiki/Helen_Keller
+description: <p>In her earlier works, Helen Keller described the details of the early
+  illness that left her deaf and blind, and in the prevailing opinion of the day,
+  unable to be educated, as well as the methods that were eventually used to teach
+  her how to communicate. In the remarkable memoir <i>The World I Live In</i>, Keller
+  offers a much more personal take on her situation, inviting readers inside her own
+  personal experience.
+gutenberg_issued: '2009-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27683'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HV'
+- !lcsh 'Senses and sensation'
+- !lcsh 'Perception'
+title: The World I Live In
+url: http://www.gutenberg.org/ebooks/27683
